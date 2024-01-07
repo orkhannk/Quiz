@@ -1,0 +1,13 @@
+1)method signatures -
+metod signature ,metodu ifade eden bir imzalardir ,Imzalar dedikde nezerde tutulan -metodun daxilinde olan elementlerdir 
+metodun imzalari dedikde -aiddir -body hissesi ,paramatrler(moterzede yazilanlar ),string ,int,bool ve ya Void olmasi ve s .
+2)menimsetme operatorlari yeni assignement operators ,bunlara aiddir :
+1)+=
+2)-=
+3)*=
+4)/=
+5)%=
+6)=
+3)Console.ReadLine() metodunun return type nedir 
+Console.ReadLine() metodunun return type i -string bir deyer qaytarir consoledan , taki yeni bir character tapilana qeder
+
